@@ -2,11 +2,10 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "CredIt | Track your creditor and debtor",
+  title: "Credit | Manage your customers digitally",
   description:
-    "Credit is SaaS platform that allow small shop owners and individuals track their credit and dept details more flexibly.",
+    "Credit is a web application, that allow users to manage their customers' debts for free",
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{

@@ -1,1 +1,3 @@
-# CREDIT
+# Credit
+
+## An open sourced web application that allow users to manage their shop's customers' dept...

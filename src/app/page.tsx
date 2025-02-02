@@ -1,5 +1,10 @@
-const page = () => {
-  return <main>page</main>;
-};
+import LandingPage from "@/components/LandingPage";
+import Image from "next/image";
 
-export default page;
+export default function Home() {
+  return (
+    <>
+      <LandingPage />
+    </>
+  );
+}
