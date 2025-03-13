@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="768"
+   height="200"
+   viewBox="0 0 203.19999 52.916668"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <g
+       id="g2"
+       transform="matrix(1.079343,0,0,1.079343,-5.3741644,-5.3741638)">
+      <g
+         id="g3"
+         transform="matrix(1.0580191,0,0,1.0580191,-7.9603938,-8.1902093)">
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:49.0267px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman Semi-Bold Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.329197"
+           x="10.655782"
+           y="54.356327"
+           id="text1"
+           transform="scale(1.031305,0.96964525)"><tspan
+             id="tspan1"
+             style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:49.0267px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman Semi-Bold Italic';fill:#000000;stroke-width:0.329197"
+             x="10.655782"
+             y="54.356327">Cred</tspan></text>
+        <rect
+           style="fill:#000000;stroke-width:0.230194"
+           id="rect2"
+           width="42.911957"
+           height="34.506519"
+           x="144.55357"
+           y="18.693237"
+           ry="5.9435401" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:39.3792px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.218774"
+           x="132.56537"
+           y="54.473972"
+           id="text2"
+           transform="scale(1.1204921,0.89246504)"><tspan
+             id="tspan2"
+             style="font-size:39.3792px;stroke-width:0.218774"
+             x="132.56537"
+             y="54.473972">it</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

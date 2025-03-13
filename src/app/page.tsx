@@ -1,10 +1,5 @@
-import LandingPage from "@/components/LandingPage";
-import Image from "next/image";
+const Home = () => {
+  return <h1>Welcome to credit</h1>;
+};
 
-export default function Home() {
-  return (
-    <>
-      <LandingPage />
-    </>
-  );
-}
+export default Home;
