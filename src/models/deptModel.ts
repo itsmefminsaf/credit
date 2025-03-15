@@ -8,13 +8,13 @@ const transactionSchema = new Schema(
   { timestamps: true }
 );
 
-const customerSchema = new Schema({
+const deptSchema = new Schema({
   name: { type: String, required: true },
   imageUrl: { type: String, required: true },
   important: { type: Boolean, required: true },
   transactions: [transactionSchema],
 });
 
-const Customer = model("Customer", customerSchema);
+const Dept = model("Dept", deptSchema);
 
-export default Customer;
+export default Dept;
